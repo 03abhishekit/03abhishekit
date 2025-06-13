@@ -35,6 +35,20 @@ React | Node.js | MongoDB | Express | JWT | Tailwind CSS | Render
   <a href="https://www.leetcode.com/kumarabhi_37"><img src="https://img.shields.io/badge/LeetCode-orange?style=social&logo=leetcode" /></a>
 </p>
 
+<h3 align="left">⚡ Fun fact:</h3>
+<ul>
+  <li>I think I’m funny and love solving <a href="https://leetcode.com">LeetCode</a> problems for fun!</li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abhishek6837" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn" height="30" /></a>
+  <a href="https://www.leetcode.com/kumarabhi_37" target="blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=social&logo=leetcode" alt="LeetCode" height="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kumarabhishek28147" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=social&logo=geeksforgeeks" alt="GeeksforGeeks" height="30" /></a>
+  <a href="https://discord.gg/abhishekkumar0831" target="blank"><img src="https://img.shields.io/badge/Discord-blue?style=social&logo=discord" alt="Discord" height="30" /></a>
+</p>
+
+
 <h3>💻 Languages and Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -49,7 +63,7 @@ React | Node.js | MongoDB | Express | JWT | Tailwind CSS | Render
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=03abhishekit" />
 </p>
 
-![Uploading fifth.jpeg…]()
+![fifth](https://github.com/user-attachments/assets/76fdb169-664c-4aa0-b6b2-e7ae801efc51)
 
 
 ![fourth](https://github.com/user-attachments/assets/a777b967-ae76-4f7c-b895-b22014f554f1)

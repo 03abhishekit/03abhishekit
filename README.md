@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Aspiring Software Developer & Machine Learning Enthusiast | MCA Student at Banaras Hindu University</h3>
+<h3 align="center">Aspiring Software Developer  | MCA Student at Banaras Hindu University</h3>
 <p align="center">
   I'm passionate about solving challenging problems, building scalable web applications, and leveraging data-driven insights through machine learning.
 </p>
